@@ -14,7 +14,7 @@ Download:
 - [Visual Studio 2019](https://carla.readthedocs.io/en/latest/build_windows/#visual-studio-2019)
 
 # Learning Tasks
-## 1. Vehicle Data Extraction and Storage
+## 1. [Vehicle Data Extraction and Storage](https://github.com/hchoi256/carla-research-project/tree/main/Learning_Tasks/LT1)
 ### Extract and store the camera data
 ![00098491](https://user-images.githubusercontent.com/39285147/192428758-3d8414cb-af64-405c-a943-3cd399d876fe.png)
 
