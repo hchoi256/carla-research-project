@@ -1,7 +1,7 @@
 # Installing the CARLA 🙌✨
-[Window Setup](https://carla.readthedocs.io/en/latest/build_windows/)
-
 [Quick Installation Guide](https://github.com/hchoi256/carla-research-project/blob/main/assets/Installation%20Guide%20and%20Basic%20Instruction%20for%20CARLA.pdf)
+
+[Installation Guide](https://carla.readthedocs.io/en/latest/build_windows/)
 
 Download:
 - [CARLA 0.9.12](https://github.com/carla-simulator/carla/blob/master/Docs/download.md)
