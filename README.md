@@ -39,10 +39,12 @@ TBD
 # Research Project
 TBD
 
-# Note
+# Reference
 [UW Madison CARLA Research Team](https://cavh.cee.wisc.edu/carla-simulation-project/)
 
 [CARLA Simulator](https://carla.readthedocs.io/en/latest/)
 
-**Collaborators**: *Eric Choi*, *Linbo Tang*, *Sreenivas Krishna Nair*
+# Note
+[Google Drive](https://drive.google.com/drive/u/1/folders/1eqKNJ-RVMcmTQSigTQv4NjA1sU8HiJWi)
 
+**Collaborators**: *Eric Choi*, *Linbo Tang*, *Sreenivas Krishna Nair*
