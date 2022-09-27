@@ -7,6 +7,7 @@ Download:
 - [CARLA 0.9.12](https://github.com/carla-simulator/carla/blob/master/Docs/download.md)
 - [CARLA 0.9.13 (한국어)](https://jeo96.tistory.com/entry/CARLA-%EC%84%A4%EC%B9%98-0913-Windows-10)
 - [CMake](https://cmake.org/download/)
+- [Make](https://gnuwin32.sourceforge.net/packages/make.htm)
 - [7zip](https://www.7-zip.org/)
 - [Python 3.7](https://www.python.org/downloads/release/python-370/)
 - [Window SDK 8.1](https://developenr.microsoft.com/en-us/windows/downloads/sdk-archive/)
