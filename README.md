@@ -14,7 +14,7 @@ Download:
 - [Unreal Engine](https://carla.readthedocs.io/en/latest/build_windows/#unreal-engine)
 - [Visual Studio 2019](https://carla.readthedocs.io/en/latest/build_windows/#visual-studio-2019)
 
-# Learning Tasks
+# Learning Tasks ✏
 *redirects to codes upon click*
 
 ## 1. [Vehicle Data Extraction and Storage](https://github.com/hchoi256/carla-research-project/tree/main/Learning_Tasks/LT1)
