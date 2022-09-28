@@ -1,9 +1,9 @@
-# Installing the CARLA 🙌✨
+# Installing the CARLA 🙌
 [Quick Installation Guide](https://github.com/hchoi256/carla-research-project/blob/main/assets/Installation%20Guide%20and%20Basic%20Instruction%20for%20CARLA.pdf)
 
 [Installation Guide](https://carla.readthedocs.io/en/latest/build_windows/)
 
-Download:
+## Prerequisites
 - [CARLA 0.9.12](https://github.com/carla-simulator/carla/blob/master/Docs/download.md)
 - [CARLA 0.9.13 (한국어)](https://jeo96.tistory.com/entry/CARLA-%EC%84%A4%EC%B9%98-0913-Windows-10)
 - [CMake](https://cmake.org/download/)
@@ -36,7 +36,7 @@ TBD
 ## Learning Task 5
 TBD
 
-# Research Project
+# Research Project ✨
 TBD
 
 # Reference
