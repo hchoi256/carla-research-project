@@ -24,11 +24,25 @@
 ### Extract and store the information (location/speed/acceleration) of all the vehicles.
 [actor_info.csv](https://github.com/hchoi256/carla-research-project/files/9651367/actor_info.csv)
 
-## Learning Task 2
-TBD
+## 2. [Construction Cone Generation and Weather Customization](https://github.com/hchoi256/carla-research-project/tree/main/Learning_Tasks/LT2)
+### Genearte three construction cones
+![00009710](https://user-images.githubusercontent.com/39285147/193484813-30fe19a7-5702-4b0a-9055-6106048de695.png)
 
-## Learning Task 3
-TBD
+### Change whether conditions
+![00063139](https://user-images.githubusercontent.com/39285147/193484831-e50b512d-ceb5-427b-8300-bdd6de4e0863.png)
+
+## 3. [Customize Autopilot Behavior and Set the Spectator](https://github.com/hchoi256/carla-research-project/tree/main/Learning_Tasks/LT3)
+[*Vehicle1_conservative*]
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/39285147/193484927-7cb35486-0726-497c-afff-56bc01adafcb.gif)
+
+[*Vehicle1_aggressive*]
+
+![ezgif com-gif-maker (1) (2)](https://user-images.githubusercontent.com/39285147/193485026-9e812861-fe81-4b3a-827e-e24c849594ab.gif)
+
+[*Vehicle1_moderate*]
+
+![(Con](https://user-images.githubusercontent.com/39285147/193485158-d9e33e3f-cc9e-4a98-8279-bbe7a602d6b0.gif)
 
 ## Learning Task 4
 TBD
