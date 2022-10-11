@@ -44,13 +44,30 @@
 
 ![(Con](https://user-images.githubusercontent.com/39285147/193485158-d9e33e3f-cc9e-4a98-8279-bbe7a602d6b0.gif)
 
-## 4. [Set Up Roadside Unit (RSU)]()
-TBD
+## 4. [Set Up Roadside Unit (RSU)](https://github.com/hchoi256/carla-research-project/tree/main/Learning_Tasks/LT4)
+[Spawn the RSU at a selected location]
 
-## 5. [Visualization]()
-TBD
+![image](https://user-images.githubusercontent.com/39285147/195047561-f65e26ee-76fe-4b81-8c8e-33aa5abfbb22.png)
+
+[Generate objects]
+
+![image](https://user-images.githubusercontent.com/39285147/195047674-649b7e95-0528-4696-be3f-b92e625f7057.png)
+
+## 5. [Visualization](https://github.com/hchoi256/carla-research-project/tree/main/Learning_Tasks/LT5)
+[Visualize the construction zone]
+
+![image](https://user-images.githubusercontent.com/39285147/195047726-acffc20b-7ee4-4777-9263-ddb7aa66aa60.png)
+
+[Testing the RSU]
+
+![image](https://user-images.githubusercontent.com/39285147/195047191-52c61aea-8616-45d1-b267-d3c8d6b24f93.png)
+
+[Information about vehicles close to the construction zone]
+
+![image](https://user-images.githubusercontent.com/39285147/195047997-b436ad99-01d4-4ae9-83f8-3e9b1717c2f5.png)
 
 # Research Project ✨
+## Sensing/Perception Group
 TBD
 
 # Reference
