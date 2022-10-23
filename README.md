@@ -20,6 +20,11 @@
 ## Sensing/Perception Group
 TBD
 
+### Research Papers
+[End-to-End Object Detection with Transformers (ECCV 2020)](https://link.springer.com/content/pdf/10.1007/978-3-030-58452-8_13.pdf)
+
+[Rethinking BiSeNet for Real-Time Semantic Segmentation (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Fan_Rethinking_BiSeNet_for_Real-Time_Semantic_Segmentation_CVPR_2021_paper.html)
+
 # Reference
 [UW Madison CARLA Research Team](https://cavh.cee.wisc.edu/carla-simulation-project/)
 
