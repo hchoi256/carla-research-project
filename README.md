@@ -18,7 +18,7 @@
 
 # Research Project ✨
 ## Sensing/Perception Group
-TBD
+[Interim Project Review: Semantic Segmentation using DETR & ResNET](https://github.com/hchoi256/carla-research-project/tree/main/assets/carla-export.zip)
 
 ### Research Papers
 [End-to-End Object Detection with Transformers (ECCV 2020)](https://link.springer.com/content/pdf/10.1007/978-3-030-58452-8_13.pdf)
